@@ -54,7 +54,7 @@ button{
     font-style: normal
 }
 .team-list{
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 h1{
     color: var(--WHITE, #FFF);
@@ -152,6 +152,7 @@ h3{
         /* 116.667% */
         letter-spacing: 0.54px;
         text-transform: uppercase;
+        line-height: 1.17;
 }
 .footer-p{
     color: var(--CLOUD, #F4F4FD);
