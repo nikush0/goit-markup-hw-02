@@ -172,3 +172,28 @@ footer {
 .logo-second-white{
     color: #F4F4FD;
 }
+.team-people{
+    background-color: #FFFFFF;
+}
+.email-tel:hover{
+    color: #404bbf;
+}
+.email-tel:focus{
+    color: #404bbf;
+}
+.email-tel{
+    color: #2e2f42;
+}
+.menu-link:hover{
+    color: #404bbf;
+}
+.menu-link:focus{
+    color: #404bbf;
+}
+button:hover{
+    color: #404bbf;
+
+}
+button:focus{
+    color: #404bbf;
+}
