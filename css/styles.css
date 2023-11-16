@@ -184,6 +184,9 @@ footer {
 .email-tel{
     color: #2e2f42;
 }
+.email-tel{
+    color: #434455;
+}
 .menu-link:hover{
     color: #404bbf;
 }
@@ -191,9 +194,9 @@ footer {
     color: #404bbf;
 }
 button:hover{
-    color: #404bbf;
+    background-color: #404BBF;
 
 }
 button:focus{
-    color: #404bbf;
+    background-color: #404BBF;
 }
